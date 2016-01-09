@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "e34bf3ea90d634230b9bf522e8dc71bb"
+build_time: [503718119, 890553000]
+inputs:
+  "/Users/mengyingfeng/Desktop/temp/SegueTesting/SegueTesting/AppDelegate.swift": [503717863, 0]
+  "/Users/mengyingfeng/Desktop/temp/SegueTesting/SegueTesting/ViewController.swift": [503718113, 0]
